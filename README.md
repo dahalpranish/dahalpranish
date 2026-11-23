@@ -14,10 +14,10 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Student passionate about technology and development
-- 💻 Interested in web development and programming
-- 🚀 Exploring new technologies and building projects
-- 🌱 Always learning and improving my skills
+- 🎓 Student passionate about technology and development.
+- 💻 Interested in ai, development and programming.
+- 🚀 Exploring new technologies and building projects.
+- 🌱 Always learning and improving my skills.
 
 ---
 
