@@ -1,15 +1,17 @@
 <div align="center">
 
-<!-- ANIMATED BANNER -->
+<!-- ANIMATED PARTICLE BANNER -->
 <img src="./pranish-animated-banner.gif"
      width="100%"
      alt="Pranish Dahal Animated Banner" />
 
 <br/>
 
-### Welcome to my GitHub profile!
+# PRANISH DAHAL
 
-**Student | Developer | Technology Enthusiast**
+### Student | Developer | Technology Enthusiast
+
+Building ideas into reality, one line of code at a time.
 
 [![GitHub](https://img.shields.io/badge/GitHub-dahalpranish-181717?style=flat-square&logo=github)](https://github.com/dahalpranish)
 [![Email](https://img.shields.io/badge/Email-Contact-8B949E?style=flat-square&logo=gmail&logoColor=white)](mailto:pranishdahal.dev@gmail.com)
@@ -27,7 +29,7 @@ programming, web development, and technology.
 - 💻 Interested in modern web development.
 - 🌱 Currently learning Python and TypeScript.
 - 🚀 Exploring Next.js and frontend development.
-- 🎯 Always learning and building new things.
+- 🎯 Always learning, experimenting, and building new things.
 
 ---
 
@@ -39,7 +41,7 @@ programming, web development, and technology.
 
 <img src="https://skillicons.dev/icons?i=python,html,css,ts" />
 
-### Frameworks & Libraries
+### Frameworks
 
 <img src="https://skillicons.dev/icons?i=nextjs" />
 
@@ -61,7 +63,7 @@ alt="GitHub Statistics" />
 
 <img width="49%"
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=dahalpranish&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"
-alt="Top Languages" />
+alt="Most Used Languages" />
 
 </div>
 
@@ -71,22 +73,31 @@ alt="Top Languages" />
 
 <div align="center">
 
-<img width="75%"
+<img
 src="https://streak-stats.demolab.com?user=dahalpranish&theme=transparent&hide_border=true&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E"
-alt="GitHub Streak" />
+width="75%"
+alt="GitHub Contribution Streak" />
 
 </div>
 
 ---
 
-## 📈 Contribution Activity
+## 🐍 My Contribution Snake
 
 <div align="center">
 
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=dahalpranish&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true"
-width="100%"
-alt="Contribution Activity Graph" />
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/dahalpranish/dahalpranish/output/github-contribution-grid-snake-dark.svg">
+
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/dahalpranish/dahalpranish/output/github-contribution-grid-snake.svg">
+
+  <img
+    src="https://raw.githubusercontent.com/dahalpranish/dahalpranish/output/github-contribution-grid-snake.svg"
+    width="100%"
+    alt="GitHub Contribution Snake Animation" />
+</picture>
 
 </div>
 
