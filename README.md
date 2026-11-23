@@ -1,10 +1,15 @@
 <div align="center">
 
-# PRANISH DAHAL
+<!-- ANIMATED BANNER -->
+<img src="./pranish-animated-banner.gif"
+     width="100%"
+     alt="Pranish Dahal Animated Banner" />
 
-### Student | Developer | Technology Enthusiast
+<br/>
 
-Building ideas into reality, one line of code at a time.
+### Welcome to my GitHub profile!
+
+**Student | Developer | Technology Enthusiast**
 
 [![GitHub](https://img.shields.io/badge/GitHub-dahalpranish-181717?style=flat-square&logo=github)](https://github.com/dahalpranish)
 [![Email](https://img.shields.io/badge/Email-Contact-8B949E?style=flat-square&logo=gmail&logoColor=white)](mailto:pranishdahal.dev@gmail.com)
@@ -15,14 +20,14 @@ Building ideas into reality, one line of code at a time.
 
 ## 👨‍💻 About Me
 
-Hi! I'm **Pranish Dahal**, a student passionate about programming,
-web development, and technology.
+Hi! I'm **Pranish Dahal**, a student passionate about
+programming, web development, and technology.
 
-- 🎓 Student exploring the world of software development.
-- 💻 Interested in building modern and responsive websites.
-- 🌱 Currently learning and improving my programming skills.
-- 🚀 Always curious about new technologies and ideas.
-- 🎯 Focused on learning, experimenting, and creating.
+- 🎓 Student exploring software development.
+- 💻 Interested in modern web development.
+- 🌱 Currently learning Python and TypeScript.
+- 🚀 Exploring Next.js and frontend development.
+- 🎯 Always learning and building new things.
 
 ---
 
@@ -30,14 +35,17 @@ web development, and technology.
 
 <div align="center">
 
-### Languages
-[![My Skills](https://skillicons.dev/icons?i=python,html,css,ts)](https://skillicons.dev)
+### Programming Languages
 
-### Frameworks
-[![My Frameworks](https://skillicons.dev/icons?i=nextjs)](https://skillicons.dev)
+<img src="https://skillicons.dev/icons?i=python,html,css,ts" />
 
-### Tools
-[![My Tools](https://skillicons.dev/icons?i=git,github,vscode)](https://skillicons.dev)
+### Frameworks & Libraries
+
+<img src="https://skillicons.dev/icons?i=nextjs" />
+
+### Development Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
 
 </div>
 
@@ -47,9 +55,13 @@ web development, and technology.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=dahalpranish&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="Pranish's GitHub statistics" />
+<img width="49%"
+src="https://github-readme-stats.vercel.app/api?username=dahalpranish&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&rank_icon=github"
+alt="GitHub Statistics" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dahalpranish&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Most used languages" />
+<img width="49%"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=dahalpranish&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"
+alt="Top Languages" />
 
 </div>
 
@@ -59,7 +71,9 @@ web development, and technology.
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=dahalpranish&theme=transparent&hide_border=true&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E" alt="GitHub contribution streak" />
+<img width="75%"
+src="https://streak-stats.demolab.com?user=dahalpranish&theme=transparent&hide_border=true&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E"
+alt="GitHub Streak" />
 
 </div>
 
@@ -69,7 +83,10 @@ web development, and technology.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dahalpranish&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" width="100%" alt="GitHub contribution activity graph" />
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=dahalpranish&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true"
+width="100%"
+alt="Contribution Activity Graph" />
 
 </div>
 
@@ -79,9 +96,13 @@ web development, and technology.
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-dahalpranish-181717?style=for-the-badge&logo=github)](https://github.com/dahalpranish)
+<a href="https://github.com/dahalpranish">
+<img src="https://img.shields.io/badge/GitHub-dahalpranish-181717?style=for-the-badge&logo=github" />
+</a>
 
-[![Email](https://img.shields.io/badge/Email-pranishdahal.dev%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pranishdahal.dev@gmail.com)
+<a href="mailto:pranishdahal.dev@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
 </div>
 
@@ -89,9 +110,9 @@ web development, and technology.
 
 <div align="center">
 
-### Thanks for visiting my profile!
+### Thanks for visiting my profile! 👋
 
-*Keep learning. Keep building. Keep growing.*
+**Keep Learning. Keep Building. Keep Growing.**
 
 </div>
 ```
